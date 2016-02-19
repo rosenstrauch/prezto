@@ -10,6 +10,11 @@ if (( ! $+commands[git] )); then
   return 1
 fi
 
+# load show wip function
+if (( $+functions[workon-cwd] )); then
+  git-show-wip
+fi
+
 # Load dependencies.
 pmodload 'helper'
 
