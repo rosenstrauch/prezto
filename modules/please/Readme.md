@@ -16,7 +16,7 @@ uid=0(root) gid=0(wheel)
 ```
 
 ### Key binding
-There is also a keybinding (`Ctrl+Shift+S`) that puts your previous command to the commandline and prepends `sudo ` to it.
+There is also a keybinding (`Ctrl+1`) that puts your previous command to the commandline and prepends `sudo ` to it.
 This is useful when you want so see or edit your previous command before executing it.
 ```shell
  ❯ id
