@@ -27,12 +27,23 @@ zstyle ':prezto:load' pmodule \
   'environment' \
   'terminal' \
   'editor' \
+  'explainshell' \
+  'bd' \
+  'alias-tips' \
   'history' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
   'prompt'
+
+
+#
+# explainshell
+#
+
+# set keyboard shortcut
+`zstyle ':prezto:module:explainshell' key-binding '^5'`
 
 #
 # Editor

@@ -1,6 +1,6 @@
 #Explainshell
 
-Adds a keybinding and a function to open 
+Adds a keybinding and a function to open
 [explainshell.com](http://www.explainshell.com) with the content of the command
 line.
 
@@ -8,4 +8,4 @@ line.
 ###Key-Binding
 The keybinding to open [explainshell.com](http://www.explainshell.com)
 
-`zstyle ':prezto:module:explainshell' key-binding '^K'`
+`zstyle ':prezto:module:explainshell' key-binding '^5'`
