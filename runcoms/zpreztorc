@@ -26,13 +26,35 @@ zstyle ':prezto:*:*' color 'yes'
 zstyle ':prezto:load' pmodule \
   'environment' \
   'terminal' \
+  'alias-tips' \
+  'explainshell' \
+  'please' \
+  'git' \
+  'fasd' \
+  'ssh' \
   'editor' \
+  'archive' \
+  'command-not-found' \
   'history' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
+  'bd' \
+  'ssh' \
+  'node' \
+  'rsync' \
+  'ruby' \
+  'syntax-highlighting' \
+  'history-substring-search' \
   'prompt'
+
+#
+# Explainshell
+#
+
+`zstyle ':prezto:module:explainshell' key-binding '^5'`
+
 
 #
 # Autosuggestions

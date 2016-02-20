@@ -30,4 +30,4 @@
 	url = https://github.com/bhilburn/powerlevel9k.git
 [submodule "modules/alias-tips/external"]
 	path = modules/alias-tips/external
-	url = https://github.com/jedahan/alias-tips
+	url = https://github.com/djui/alias-tips.git
