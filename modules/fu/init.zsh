@@ -1,1 +1,1 @@
-alias fu='python2 ~/.zprezto/modules/fu/external/fu/fu'
+alias fu='python2 ~/.zprezto/modules/fu/external/fu'
